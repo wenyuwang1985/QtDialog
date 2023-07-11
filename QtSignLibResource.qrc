@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QCertEsealDialog">
+        <file>resource/icon/stamp_icon.png</file>
+        <file>resource/icon/upload_cloud_icon.png</file>
+        <file>resource/icon/USB_app_flash_drive_icon.png</file>
+    </qresource>
+</RCC>
